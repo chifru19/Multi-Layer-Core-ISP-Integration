@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Corporate Network Lab V1
 
 ## Project Overview
